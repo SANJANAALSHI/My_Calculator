@@ -1,4 +1,4 @@
-# ** String Calculator TDD Kata **
+** # String Calculator TDD Kata **
 
 1. Create a simple String calculator with a method signature:
 
